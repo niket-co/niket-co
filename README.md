@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niket-co
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python 
+- 👀 I’m a Data Scientist
+- 🌱 I’m have experience building models to aid various use cases 
 - 💞️ I’m looking to collaborate on various data analytics problems
 - 📫 How to reach me niket620535@gmail.com
 
